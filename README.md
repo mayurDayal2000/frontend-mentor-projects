@@ -33,78 +33,59 @@ I will upload more projects soon. Please view my projects and give feedback to h
 
 ## Vanilla JavaScript
 
-| Project Name                                 | View Code in Github                                                             | Preview website                                                               | Status | Created on    |
-| -------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------ | ------------- |
-| FAQ accordion card                           | [view code](https://github.com/mayurDayal2000/faq-accordion-card-main)          | [preview](https://mayurdayal2000.github.io/faq-accordion-card-main/)          | ✅     | 02 March 2022 |
-| Article preview component                    | [view code](https://github.com/mayurDayal2000/article-preview-component-main)   | [preview](https://mayurdayal2000.github.io/article-preview-component-main/)   | ✅     | 06 March 2022 |
-| Intro component with sign-up form            | [view code](https://github.com/mayurDayal2000/intro-component-with-signup-form) | [preview](https://mayurdayal2000.github.io/intro-component-with-signup-form/) | ✅     | 25 Jan 2023   |
-| Interactive rating component                 | [view code](https://github.com/mayurDayal2000/interactive-rating-component-main) | [preview](https://mayurdayal2000.github.io/interactive-rating-component-main/) | ✅     | 06 Aug 2023 |
-| Ping single column coming soon page          | -                                                                               | -                                                                             | ⭕     | -             |
-| Interactive rating component                 | -                                                                               | -                                                                             | ⭕     | -             |
-| Newsletter sign-up form with success message | -                                                                               | -                                                                             | ⭕     | -             |
-| Body Mass Index calculator                   | -                                                                               | -                                                                             | ⭕     | -             |
-| Age calculator app                           | -                                                                               | -                                                                             | ⭕     | -             |
-| News homepage                                | -                                                                               | -                                                                             | ⭕     | -             |
-| Notifications page                           | -                                                                               | -                                                                             | ⭕     | -             |
-| Interactive card details form                | -                                                                               | -                                                                             | ⭕     | -             |
-| Expenses chart component                     | -                                                                               | -                                                                             | ⭕     | -             |
-| Intro section with dropdown navigation       | -                                                                               | -                                                                             | ⭕     | -             |
-| Time tracking dashboard                      | -                                                                               | -                                                                             | ⭕     | -             |
-| Tip calculator app                           | -                                                                               | -                                                                             | ⭕     | -             |
-| Crowdfunding product page                    | -                                                                               | -                                                                             | ⭕     | -             |
-| Interactive pricing component                | -                                                                               | -                                                                             | ⭕     | -             |
-| Coding bootcamp testimonials slider          | -                                                                               | -                                                                             | ⭕     | -             |
+| Project Name                                 | View Code in Github                                                              | Preview website                                                                | Status | Created on    |
+| -------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------ | ------------- |
+| FAQ accordion card                           | [view code](https://github.com/mayurDayal2000/faq-accordion-card-main)           | [preview](https://mayurdayal2000.github.io/faq-accordion-card-main/)           | ✅     | 02 March 2022 |
+| Article preview component                    | [view code](https://github.com/mayurDayal2000/article-preview-component-main)    | [preview](https://mayurdayal2000.github.io/article-preview-component-main/)    | ✅     | 06 March 2022 |
+| Intro component with sign-up form            | [view code](https://github.com/mayurDayal2000/intro-component-with-signup-form)  | [preview](https://mayurdayal2000.github.io/intro-component-with-signup-form/)  | ✅     | 25 Jan 2023   |
+| Advice generator app                         | [view code](https://github.com/mayurDayal2000/advice-generator-app-main)         | [preview](https://mayurdayal2000.github.io/advice-generator-app-main/)         | ✅     | 11 March 2023 |
+| Interactive rating component                 | [view code](https://github.com/mayurDayal2000/interactive-rating-component-main) | [preview](https://mayurdayal2000.github.io/interactive-rating-component-main/) | ✅     | 06 Aug 2023   |
+| Newsletter sign-up form with success message | -                                                                                | -                                                                              | ⭕     | -             |
+| Body Mass Index calculator                   | -                                                                                | -                                                                              | ⭕     | -             |
+| News homepage                                | -                                                                                | -                                                                              | ⭕     | -             |
+| Notifications page                           | -                                                                                | -                                                                              | ⭕     | -             |
+| Interactive card details form                | -                                                                                | -                                                                              | ⭕     | -             |
+| Time tracking dashboard                      | -                                                                                | -                                                                              | ⭕     | -             |
+| Coding bootcamp testimonials slider          | -                                                                                | -                                                                              | ⭕     | -             |
+| Social media dashboard with theme switcher   | -                                                                                | -                                                                              | ⭕     | -             |
+| Fylo dark theme landing page                 | -                                                                                | -                                                                              | ⭕     | -             |
 
 <br>
 
-## JavaScript + API
+## JavaScript with Framework
 
-| Project Name           | View Code in Github                                                      | Preview website                                                        | Status | Created on    |
-| ---------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ------ | ------------- |
-| Advice generator app   | [view code](https://github.com/mayurDayal2000/advice-generator-app-main) | [preview](https://mayurdayal2000.github.io/advice-generator-app-main/) | ✅     | 11 March 2023 |
-| GitHub user search app | -                                                                        | -                                                                      | ⭕     | -             |
+### React JS
+
+| Project Name                 | View Code in Github | Preview website | Status | Created on |
+| ---------------------------- | ------------------- | --------------- | ------ | ---------- |
+| Password generator app       | -                   | -               | ⭕     | -          |
+| Tic Tac Toe game             | -                   | -               | ⭕     | -          |
+| Interactive comments section | -                   | -               | ⭕     | -          |
+| E-commerce product page      | -                   | -               | ⭕     | -          |
+| Launch countdown timer       | -                   | -               | ⭕     | -          |
+| Bookmark landing page        | -                   | -               | ⭕     | -          |
 
 <br>
 
-## JavaScript + Framework
+### Vue JS
 
 | Project Name                     | View Code in Github | Preview website | Status | Created on |
 | -------------------------------- | ------------------- | --------------- | ------ | ---------- |
-| Password generator app           | -                   | -               | ⭕     | -          |
-| Tic Tac Toe game                 | -                   | -               | ⭕     | -          |
-| Interactive comments section     | -                   | -               | ⭕     | -          |
 | Space tourism multi-page website | -                   | -               | ⭕     | -          |
-| E-commerce product page          | -                   | -               | ⭕     | -          |
 | Planets fact site                | -                   | -               | ⭕     | -          |
-| Calculator app                   | -                   | -               | ⭕     | -          |
-| Launch countdown timer           | -                   | -               | ⭕     | -          |
+| Coffeeroasters subscription site | -                   | -               | ⭕     | -          |
 | Todo app                         | -                   | -               | ⭕     | -          |
-| Scoot multi-page website         | -                   | -               | ⭕     | -          |
 | Job listings with filtering      | -                   | -               | ⭕     | -          |
-| Manage landing page              | -                   | -               | ⭕     | -          |
-| Bookmark landing page            | -                   | -               | ⭕     | -          |
 
 <br>
 
-## JavaScript + Framework + API
+## React Native (Mobile App)
 
-| Project Name                    | View Code in Github | Preview website | Status | Created on |
-| ------------------------------- | ------------------- | --------------- | ------ | ---------- |
-| Dictionary web app              | -                   | -               | ⭕     | -          |
-| Clock app                       | -                   | -               | ⭕     | -          |
-| IP Address Tracker              | -                   | -               | ⭕     | -          |
-| URL shortening API landing page | -                   | -               | ⭕     | -          |
-
-<br>
-
-## JavaScript + Framework (Advance)
-
-| Project Name               | View Code in Github | Preview website | Status | Created on |
-| -------------------------- | ------------------- | --------------- | ------ | ---------- |
-| Multi-step form            | -                   | -               | ⭕     | -          |
-| Connect Four game          | -                   | -               | ⭕     | -          |
-| Entertainment web app      | -                   | -               | ⭕     | -          |
-| Memory game                | -                   | -               | ⭕     | -          |
-| Pomodoro app               | -                   | -               | ⭕     | -          |
-| Devjobs web app            | -                   | -               | ⭕     | -          |
-| Rock, Paper, Scissors game | -                   | -               | ⭕     | -          |
+| Project Name                  | View Code in Github | Preview website | Status | Created on |
+| ----------------------------- | ------------------- | --------------- | ------ | ---------- |
+| Age Calculator App            | -                   | -               | ⭕     | -          |
+| Expenses chart component      | -                   | -               | ⭕     | -          |
+| Tip calculator app            | -                   | -               | ⭕     | -          |
+| Interactive pricing component | -                   | -               | ⭕     | -          |
+| Github user search app        | -                   | -               | ⭕     | -          |
+| Calculator app                | -                   | -               | ⭕     | -          |
